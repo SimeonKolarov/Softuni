@@ -1,0 +1,6 @@
+function strl(a, b, c){
+   console.log(`The largest number is ${Math.max(a, b, c)}.`)
+}
+
+strl('5', '-3', '16')
+strl('-3', '-5', '-22.5')
