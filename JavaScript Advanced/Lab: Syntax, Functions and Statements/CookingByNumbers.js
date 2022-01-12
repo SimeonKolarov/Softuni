@@ -85,6 +85,6 @@ function synt(num, firstElement, secondElement, thirdElement, FourthElement, Fif
     }
     
     }
-    //synt(32, 'chop', 'chop', 'chop', 'chop', 'chop')
+    synt(32, 'chop', 'chop', 'chop', 'chop', 'chop')
     synt(9, 'dice', 'spice', 'chop', 'bake', 'fillet')
     
